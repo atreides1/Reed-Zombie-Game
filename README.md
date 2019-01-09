@@ -1,8 +1,8 @@
 # Reed Zombie Game
 
-## Final project for CSCI 121 (Fall 2016) created with Sierra Schlott
+#### Final project for CSCI 121 (Fall 2016) created with Sierra Schlott
 
-####### To Run:
+###### To Run:
 Use `py main.py` for Windows
 Use `python3 main.py` for Mac
 
